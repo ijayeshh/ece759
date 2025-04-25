@@ -1,0 +1,11 @@
+tensorflow=1.12.0
+tensorflow-gpu=1.12.0 
+os
+argparse
+numpy
+opencv-python
+glob
+time
+matplotlib
+scikit-learn>=1.4.0
+sys
