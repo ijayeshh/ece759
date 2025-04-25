@@ -1,5 +1,6 @@
 ## 🚀 Quick Test Instructions
 
+Clone the Code folder
 To test on sample images:
 
 1. Insert your images in `./inference_test/images/`
