@@ -1,4 +1,11 @@
+## 🚀 Quick Test Instructions
+
 To test on sample images:
-Insert Images in ./inference_test/images
-pip install -r requirements.txt
-python inference.py -m trained_model -o inference_test/results
+
+1. Insert your images in `./inference_test/images/`
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+3.
+  '''bash
+  python inference.py -m trained_model -o inference_test/results
