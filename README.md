@@ -7,5 +7,5 @@ To test on sample images:
    ```bash
    pip install -r requirements.txt
 3.
-  '''bash
+   ```bash
   python inference.py -m trained_model -o inference_test/results
